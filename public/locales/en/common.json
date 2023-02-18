@@ -1,0 +1,12 @@
+{
+  "NavBar": {
+    "Items": {
+      "Link1": "About me",
+      "Link2": "My work",
+      "Link3": "Contact me"
+    }
+  },
+  "presentation": {
+    "SubHeader": "Innovate, connect, inspire."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "NavBar": {
+    "Items": {
+      "Link1": "Sobre mi",
+      "Link2": "Mi trabajo",
+      "Link3": "Contactame"
+    }
+  },
+  "presentation": {
+    "SubHeader": "Inovar, conectar, inspirar."
+  }
+}
